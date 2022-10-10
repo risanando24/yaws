@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
