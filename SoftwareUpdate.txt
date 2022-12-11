@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add CoreML Docs Integrations Page (#8063)
