@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
