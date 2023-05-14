@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Improve Docs Modes tables (#8266)
