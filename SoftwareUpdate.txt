@@ -1,1 +1,1 @@
-add logs
+Add TensorRT Docs Integrations Page (#7855)
