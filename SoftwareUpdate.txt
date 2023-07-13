@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
