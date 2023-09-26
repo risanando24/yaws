@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
