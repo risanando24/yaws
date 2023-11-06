@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
