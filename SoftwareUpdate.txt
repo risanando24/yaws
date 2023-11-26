@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+YOLOv8 INT8 TFLite Inference Example (#7317)
