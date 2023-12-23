@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
