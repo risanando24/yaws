@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Remove unused variables (#8511)
