@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+docs: update view-results-in-terminal.md (#66)
