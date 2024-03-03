@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Rename model_id to model.id (#8447)
