@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies giữa devices)
+Add visuals in guides/distance-calculation.md (#7876)
