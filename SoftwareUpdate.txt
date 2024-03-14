@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
